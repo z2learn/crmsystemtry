@@ -1,0 +1,43 @@
+body {
+  min-height: 100vh;
+}
+
+.navbar {
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.table th {
+  border-top: none;
+}
+
+.status-badge {
+  padding: 0.5em 1em;
+  border-radius: 20px;
+  font-size: 0.85em;
+}
+
+.status-lead {
+  background-color: #ffd700;
+  color: #000;
+}
+
+.status-prospect {
+  background-color: #87ceeb;
+  color: #000;
+}
+
+.status-customer {
+  background-color: #90ee90;
+  color: #000;
+}
+
+.status-inactive {
+  background-color: #d3d3d3;
+  color: #000;
+}
